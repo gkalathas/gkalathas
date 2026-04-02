@@ -1,4 +1,4 @@
-# Hey, I'm George 👋
+# Hey, I'm George
 
 **AI Engineer @ Netcompany · MSc Software Engineering (York) · MSc AI (in progress)**
 
@@ -8,15 +8,15 @@ I'm a software engineer and AI practitioner based in Thessaloniki, Greece. I tra
 >
 > ## What I'm building
 >
-> 🧠 **Mind — AI Agent Platform** — A multi-repo AI assistant ecosystem featuring an embeddable chat widget, multi-agent orchestration with LangGraph (both Python and Java/LangGraph4J), a Spring Boot + Spring AI backend, an Angular frontend, and an MCP server for tool integrations. Spans 7 repositories across TypeScript, Python, and Java.
+> **Mind — AI Agent Platform** — A multi-repo AI assistant ecosystem featuring an embeddable chat widget, multi-agent orchestration with LangGraph (both Python and Java/LangGraph4J), a Spring Boot + Spring AI backend, an Angular frontend, and an MCP server for tool integrations. Spans 7 repositories across TypeScript, Python, and Java.
 >
-> 🏠 **Property Management System** `🟢 Live in production` — Full-stack hotel management platform built with Spring Boot and PrimeNG. Handles bookings, room availability, statistical dashboards with charts, and FullCalendar integration for visual booking management. Deployed and used by real customers.
+> **Property Management System** `🟢 Live in production` — Full-stack hotel management platform built with Spring Boot and PrimeNG. Handles bookings, room availability, statistical dashboards with charts, and FullCalendar integration for visual booking management. Deployed and used by real customers.
 >
-> 🍽️ **Contactless Ordering Platform** `🟢 Live in production` — QR-based ordering system for restaurants and beach bars. Spring Boot backend with WebSocket/STOMP real-time updates, Next.js frontend, JWT auth with role-based access, and scheduled job processing with JobRunr. Deployed and serving real businesses.
+> **Contactless Ordering Platform** `🟢 Live in production` — QR-based ordering system for restaurants and beach bars. Spring Boot backend with WebSocket/STOMP real-time updates, Next.js frontend, JWT auth with role-based access, and scheduled job processing with JobRunr. Deployed and serving real businesses.
 >
-> 💰 **AML Detection System** — End-to-end anti-money laundering pipeline built on Databricks using Apache Spark and XGBoost. Covers feature engineering over large-scale transaction data, model training for fraud and money laundering detection, and pipeline orchestration for ML-driven risk scoring.
+> **AML Detection System** — End-to-end anti-money laundering pipeline built on Databricks using Apache Spark and XGBoost. Covers feature engineering over large-scale transaction data, model training for fraud and money laundering detection, and pipeline orchestration for ML-driven risk scoring.
 >
-> 🖥️ **Multi-GPU AI Workstation** — Built a custom 4x RTX 3090 inference/training rig on a dual-socket Machinist X99 board running Ubuntu Server. Hands-on with thermal management, PCIe riser configurations, and RDIMM memory expansion.
+> **Multi-GPU AI Workstation** — Built a custom 4x RTX 3090 inference/training rig on a dual-socket Machinist X99 board running Ubuntu Server. Hands-on with thermal management, PCIe riser configurations, and RDIMM memory expansion.
 >
 > ## Tech Stack
 >
